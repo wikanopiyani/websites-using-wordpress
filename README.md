@@ -1,4 +1,4 @@
-# Websites Using WordPress: 2.4 Million+ Site List (2026)
+# Websites Using WordPress: 2.4 Million+ Site List + Data
 
 ![Websites using WordPress dataset: 2,424,552 live sites with themes, plugins, versions, hosting and country](images/cover.png)
 
