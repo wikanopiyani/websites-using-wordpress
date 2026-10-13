@@ -143,11 +143,11 @@ See the [methodology](https://wikanopi.gumroad.com/l/websites-using-wordpress): 
 
 ## Get the full dataset
 
-**[every-wp.com](https://wikanopi.gumroad.com/l/websites-using-wordpress/)**: 2,424,552 websites using WordPress, 5 ready-made lists,
+**(https://wikanopi.gumroad.com/l/websites-using-wordpress/)**: 2,424,552 websites using WordPress, 5 ready-made lists,
 91 country files, and a bonus file of 18,895 placeholder installs, in one download.
 
 ---
 
 <sub>The sample in this repository is free to download and evaluate. The full dataset is sold under the
-[every-wp.com license](https://wikanopi.gumroad.com/l/websites-using-wordpress/license/). WordPress® is a trademark of the WordPress Foundation;
+(https://wikanopi.gumroad.com/l/websites-using-wordpress/license/). WordPress® is a trademark of the WordPress Foundation;
 this project is not affiliated with or endorsed by it.</sub>
