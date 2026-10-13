@@ -11,8 +11,8 @@ A list of **2,424,552 live websites using WordPress**, verified site by site bet
 plugins, WordPress version, page builder, SEO plugin, hosting, language and country for every site.
 
 **[⬇ Download the free 1,000-row sample](sample/wordpress-sites-sample-1000.csv)** ·
-**[Get the full dataset at every-wp.com](https://every-wp.com/)** ·
-**[WordPress statistics 2026](https://every-wp.com/wordpress-statistics/)**
+**[Get the full dataset at every-wp.com](https://wikanopi.gumroad.com/l/websites-using-wordpress/)** ·
+**[WordPress statistics 2026](https://wikanopi.gumroad.com/l/websites-using-wordpress)**
 
 ---
 
@@ -108,7 +108,7 @@ No email addresses or personal data are included.
 - **Countries (by domain extension):** Germany 102,332, United Kingdom 75,103, Japan 72,187, Russia 49,737, France 45,865.
 - **Languages:** English 57.5%, Japanese 6.8%, German 6.1%, French 4.8%, Spanish 4.0%.
 
-Full report with charts: **[WordPress Statistics 2026](https://every-wp.com/wordpress-statistics/)**.
+Full report with charts: **[WordPress Statistics 2026](https://wikanopi.gumroad.com/l/websites-using-wordpress)**.
 You're welcome to quote these numbers with a link to this page or to every-wp.com.
 
 ## Who uses it
@@ -136,18 +136,18 @@ Plugins that load files on the homepage. Admin-only plugins can't be seen from o
 
 **Can I use it commercially?**
 Yes, for your own business (prospecting, research, analysis). Reselling or redistributing the dataset itself
-is not allowed. See the [license](https://every-wp.com/license/).
+is not allowed. See the [license](https://wikanopi.gumroad.com/l/websites-using-wordpress).
 
 **How was it built?**
-See the [methodology](https://every-wp.com/methodology/): sources, detection signals, confidence levels and every column explained.
+See the [methodology](https://wikanopi.gumroad.com/l/websites-using-wordpress): sources, detection signals, confidence levels and every column explained.
 
 ## Get the full dataset
 
-**[every-wp.com](https://every-wp.com/)**: 2,424,552 websites using WordPress, 5 ready-made lists,
+**[every-wp.com](https://wikanopi.gumroad.com/l/websites-using-wordpress/)**: 2,424,552 websites using WordPress, 5 ready-made lists,
 91 country files, and a bonus file of 18,895 placeholder installs, in one download.
 
 ---
 
 <sub>The sample in this repository is free to download and evaluate. The full dataset is sold under the
-[every-wp.com license](https://every-wp.com/license/). WordPress® is a trademark of the WordPress Foundation;
+[every-wp.com license](https://wikanopi.gumroad.com/l/websites-using-wordpress/license/). WordPress® is a trademark of the WordPress Foundation;
 this project is not affiliated with or endorsed by it.</sub>
