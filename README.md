@@ -11,7 +11,7 @@ A list of **2,424,552 live websites using WordPress**, verified site by site bet
 plugins, WordPress version, page builder, SEO plugin, hosting, language and country for every site.
 
 **[⬇ Download the free 1,000-row sample](sample/wordpress-sites-sample-1000.csv)** ·
-**[Get the full dataset at every-wp.com](https://wikanopi.gumroad.com/l/websites-using-wordpress/)** ·
+**[Get the full dataset](https://wikanopi.gumroad.com/l/websites-using-wordpress/)** ·
 **[WordPress statistics 2026](https://wikanopi.gumroad.com/l/websites-using-wordpress)**
 
 ---
@@ -109,7 +109,6 @@ No email addresses or personal data are included.
 - **Languages:** English 57.5%, Japanese 6.8%, German 6.1%, French 4.8%, Spanish 4.0%.
 
 Full report with charts: **[WordPress Statistics 2026](https://wikanopi.gumroad.com/l/websites-using-wordpress)**.
-You're welcome to quote these numbers with a link to this page or to every-wp.com.
 
 ## Who uses it
 
